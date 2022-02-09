@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import { ProductCard } from './components/ProductCard';
+import { ProductCard } from './components/ProductCard/ProductCard';
 
 const products: Product[] = [{
   name: 'Forte PRO 4 Head Replacement Blade for Pitbull, Palm, and Butterfly Kiss Shavers',
